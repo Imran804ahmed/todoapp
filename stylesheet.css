@@ -1,0 +1,36 @@
+.main{
+    background-color: rgb(224, 123, 64);
+    width: 500px;
+    height: 600px;
+    text-align: center;
+}
+/* body{
+    text-align: center;
+} */
+.btn{
+    background-color: blue;
+    color: white;
+    margin-left: 50px;
+    margin-top: 10px;
+    
+    
+   
+    
+}
+.btn1{
+    background-color: blue;
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.listli{
+    text-align: center;
+}
+.spa{
+    color: white;
+    font-size: 16px;
+}
+h1{
+    color: white;
+    padding-top: 30px;
+}
